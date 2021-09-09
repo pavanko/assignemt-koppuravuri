@@ -52,3 +52,22 @@ Nuggets     | Maryville  | $ 7.50
 
 > "Excellence happens not by accident. It is a process."
 > - MAHATMA GANDHI
+
+# Algebra
+In number theory, two integers a and b are coprime, relatively prime or mutually prime if the only positive integer that is a divisor of both of them is 1.[1] Consequently, any prime number that divides one of a or b does not divide the other. This is equivalent to their greatest common divisor (gcd) being 1.[2] One says also a is prime to b or a is coprime with b.
+
+The numerator and denominator of a reduced fraction are coprime. The numbers 14 and 25 are coprime, since 1 is their only common divisor. On the other hand, 14 and 21 are not coprime, because they are both divisible by 7.
+(https://en.wikipedia.org/wiki/Coprime_integers)
+
+```
+bool isPrime(int x) {
+    for (int d = 2; d * d <= x; d++) {
+        if (x % d == 0)
+            return false;
+    }
+    return true;
+}
+
+```
+
+[URL](https://cp-algorithms.com/algebra/primality_tests.html)
