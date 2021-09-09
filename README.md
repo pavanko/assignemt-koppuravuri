@@ -30,4 +30,5 @@ Miami is known for its white-sand beaches, warm climate, **delicious cuisine,** 
         * Tropicana
 
 
-**[Image](AboutMe.md)**
+
+ **[Image](AboutMe.md)**
