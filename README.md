@@ -32,3 +32,14 @@ Miami is known for its white-sand beaches, warm climate, **delicious cuisine,** 
 
 
  **[Image](AboutMe.md)**
+
+ ---
+# RECOMMENDED FOODS - BARBECUE AND BEYOND
+
+
+Food/Drink  | Location   | Price
+----------- | ---------- | -----
+
+pizza       | Joseph     | $ 9.50
+Cafe coffee | Maryville  | $ 6.00
+Nuggets     | Maryville  | $ 7.50
